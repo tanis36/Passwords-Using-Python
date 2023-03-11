@@ -7,9 +7,12 @@ The files in this project are not necessarily used all together to accomplish on
 
 
 Run the following files in this order:
-  create_account.py
-  sign_out.py
-  sign_in.py
+  
+    create_account.py
+  
+    sign_out.py
+  
+    sign_in.py
   
 
 
